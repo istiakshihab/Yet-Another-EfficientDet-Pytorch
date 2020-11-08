@@ -1,6 +1,3 @@
-"""
-Simple Inference Script of EfficientDet-Pytorch
-"""
 import time
 import glob
 import torch
@@ -8,30 +5,35 @@ import pandas as pd
 from torch.backends import cudnn
 from matplotlib import colors
 
-
 from backbone import EfficientDetBackbone
-import cv2
 import numpy as np
 
 from efficientdet.utils import BBoxTransform, ClipBoxes
 from utils.utils import preprocess, invert_affine, postprocess, STANDARD_COLORS, standard_to_bgr, get_index_label, plot_one_box
 
 
-############## REPLACEABLE PARAMETERS ################################
+############## REPLACEABLE PARAMETERS ###########################
 
-compound_coef = 6
-force_input_size = 1024  # set None to use default size, 1024 is the size required by DHAKA AI Outputs
-run_number = 1
+compound_coef = 6        # d0 = 0, d1 = 1.... d7 = 7, d7x = 8
+force_input_size = None  # set None to use default size, 1024 is the size required by DHAKA AI Outputs
+run_number = 1           # Not significant, Just to keep track of Dataset 
 
-# replace this part with your project's anchor config
 anchor_ratios = [(1.0, 1.0), (1.4, 0.7), (0.7, 1.4)]
 anchor_scales = [2 ** 0, 2 ** (1.0 / 3.0), 2 ** (2.0 / 3.0)]
 
-threshold = 0.4
-iou_threshold = 0.4
+threshold = 0.2
+iou_threshold = 0.2
 
-weight_loc = '../drive/My Drive/logs/'+str(run_number)+'/dhaka_ai_v2/efficientdet-d'+str(compound_coef)+'.pth'
-############## KEEP IT AS IT IS ######################################
+weight_loc = 'logs/dhaka_ai_v2/efficientdet-d'+str(compound_coef)+'_.pth'
+
+############## OBJECT LIST ######################################
+
+obj_list = ["rickshaw","car","three wheelers (CNG)","bus","motorbike",
+            "wheelbarrow","bicycle","auto rickshaw","truck",
+            "pickup","minivan","human hauler","suv","van","minibus",
+            "ambulance","taxi","army vehicle","scooter","policecar","garbagevan"]
+
+############## Variables for ouput CSV ###########################
 
 list_image_id = []
 list_class = []
@@ -48,10 +50,6 @@ use_float16 = False
 cudnn.fastest = True
 cudnn.benchmark = True
 
-obj_list = ["rickshaw","car","three wheelers (CNG)","bus","motorbike",
-            "wheelbarrow","bicycle","auto rickshaw","truck",
-            "pickup","minivan","human hauler","suv","van","minibus",
-            "ambulance","taxi","army vehicle","scooter","policecar","garbagevan"]
 
 color_list = standard_to_bgr(STANDARD_COLORS)
 # tf bilinear interpolation is different from any other's, just make do
@@ -102,6 +100,7 @@ for img_path in glob.iglob('test/*.jpg'):
                 x1, y1, x2, y2 = preds[i]['rois'][j].astype(np.int)
                 obj = obj_list[preds[i]['class_ids'][j]]
                 score = float(preds[i]['scores'][j])
+                
                 list_image_id.append(img_path.split('/')[-1])
                 list_class.append(obj)
                 list_score.append(score)
@@ -109,9 +108,8 @@ for img_path in glob.iglob('test/*.jpg'):
                 list_ymin.append(y1)
                 list_xmax.append(x2)
                 list_ymax.append(y2)
+
                 plot_one_box(imgs[i], [x1, y1, x2, y2], label=obj,score=score,color=color_list[get_index_label(obj, obj_list)])
-
-
 
     out = invert_affine(framed_metas, out)
     display(out, ori_imgs, imshow=False, imwrite=False)
@@ -156,4 +154,4 @@ pd.DataFrame({
     'ymax':list_ymax,
     'width':list_width,
     'height':list_height
-}).to_csv('../drive/My Drive/dhaka-ai_'+run_number+"_"+time.ctime()+'.csv',index=False)
+}).to_csv('../drive/My Drive/'+str(run_number)+"_dhaka-ai_"+time.ctime()+'.csv',index=False)
