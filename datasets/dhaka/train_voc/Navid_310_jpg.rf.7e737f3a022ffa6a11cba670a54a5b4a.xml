@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Navid_310_jpg.rf.7e737f3a022ffa6a11cba670a54a5b4a.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_310_jpg.rf.7e737f3a022ffa6a11cba670a54a5b4a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>army vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>196</ymin>
+			<xmax>233</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pickup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>218</ymin>
+			<xmax>512</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Navid_687_jpg.rf.728511c3396cdbdb853d30c8feca4293.jpg</filename>
+	<path>Navid_687_jpg.rf.728511c3396cdbdb853d30c8feca4293.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>82</xmin>
+			<xmax>101</xmax>
+			<ymin>294</ymin>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

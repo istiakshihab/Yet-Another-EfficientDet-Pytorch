@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Dipto_637_jpg.rf.2b2dbbf428ca8f7f85aefef3dc471b84.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_637_jpg.rf.2b2dbbf428ca8f7f85aefef3dc471b84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>274</ymin>
+			<xmax>512</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

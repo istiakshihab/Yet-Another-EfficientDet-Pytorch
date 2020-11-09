@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Navid_24_jpg.rf.2e7da4bf37c4cd0975a3fd46bd4af83c.jpg</filename>
+	<path>Navid_24_jpg.rf.2e7da4bf37c4cd0975a3fd46bd4af83c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>88</xmin>
+			<xmax>197</xmax>
+			<ymin>54</ymin>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>116</xmin>
+			<xmax>212</xmax>
+			<ymin>155</ymin>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>195</xmin>
+			<xmax>405</xmax>
+			<ymin>171</ymin>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

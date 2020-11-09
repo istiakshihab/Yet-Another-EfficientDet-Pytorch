@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Dipto_ 144_jpg.rf.966d2bc190d465f35233dcc356d3a817.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_ 144_jpg.rf.966d2bc190d465f35233dcc356d3a817.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pickup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>316</ymin>
+			<xmax>265</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>159</ymin>
+			<xmax>198</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

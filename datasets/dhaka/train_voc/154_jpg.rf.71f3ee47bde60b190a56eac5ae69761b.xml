@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>154_jpg.rf.71f3ee47bde60b190a56eac5ae69761b.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/154_jpg.rf.71f3ee47bde60b190a56eac5ae69761b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>suv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>101</ymin>
+			<xmax>480</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

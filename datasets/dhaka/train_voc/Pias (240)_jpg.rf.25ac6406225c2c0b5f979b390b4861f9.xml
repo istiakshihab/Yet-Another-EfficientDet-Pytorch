@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Pias (240)_jpg.rf.25ac6406225c2c0b5f979b390b4861f9.jpg</filename>
+	<path>Pias (240)_jpg.rf.25ac6406225c2c0b5f979b390b4861f9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>170</xmax>
+			<ymin>312</ymin>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>134</xmin>
+			<xmax>227</xmax>
+			<ymin>304</ymin>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>minivan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>316</xmin>
+			<xmax>368</xmax>
+			<ymin>317</ymin>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Asraf_35_jpg.rf.df76a50812cbe8ca7f4edaed452f8f94.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Asraf_35_jpg.rf.df76a50812cbe8ca7f4edaed452f8f94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>160</ymin>
+			<xmax>512</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

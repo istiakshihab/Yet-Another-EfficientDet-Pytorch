@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Navid_675_jpg.rf.24a47ddb727c755f0573b8a27c187c8c.jpg</filename>
+	<path>Navid_675_jpg.rf.24a47ddb727c755f0573b8a27c187c8c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>283</xmin>
+			<xmax>368</xmax>
+			<ymin>349</ymin>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>179</xmin>
+			<xmax>236</xmax>
+			<ymin>339</ymin>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

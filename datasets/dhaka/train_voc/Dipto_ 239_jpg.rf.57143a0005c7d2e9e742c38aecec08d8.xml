@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Dipto_ 239_jpg.rf.57143a0005c7d2e9e742c38aecec08d8.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_ 239_jpg.rf.57143a0005c7d2e9e742c38aecec08d8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>160</xmax>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>

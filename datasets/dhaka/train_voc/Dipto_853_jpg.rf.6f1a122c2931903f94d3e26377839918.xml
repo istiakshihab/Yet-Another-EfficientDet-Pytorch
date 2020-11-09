@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Dipto_853_jpg.rf.6f1a122c2931903f94d3e26377839918.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_853_jpg.rf.6f1a122c2931903f94d3e26377839918.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>296</ymin>
+			<xmax>118</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>284</ymin>
+			<xmax>164</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

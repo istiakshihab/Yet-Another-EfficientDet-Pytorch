@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Dipto_ 323_jpg.rf.3d2dfe8d7df16353dab09312361c11e0.jpg</filename>
+	<path>Dipto_ 323_jpg.rf.3d2dfe8d7df16353dab09312361c11e0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human hauler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>78</xmin>
+			<xmax>155</xmax>
+			<ymin>230</ymin>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>207</xmin>
+			<xmax>353</xmax>
+			<ymin>166</ymin>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

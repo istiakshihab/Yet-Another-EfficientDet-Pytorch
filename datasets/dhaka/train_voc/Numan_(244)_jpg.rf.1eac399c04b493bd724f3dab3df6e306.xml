@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Numan_(244)_jpg.rf.1eac399c04b493bd724f3dab3df6e306.jpg</filename>
+	<path>Numan_(244)_jpg.rf.1eac399c04b493bd724f3dab3df6e306.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>85</xmax>
+			<ymin>3</ymin>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

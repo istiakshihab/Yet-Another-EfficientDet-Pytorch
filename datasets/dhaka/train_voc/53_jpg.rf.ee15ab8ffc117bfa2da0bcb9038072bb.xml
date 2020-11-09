@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>53_jpg.rf.ee15ab8ffc117bfa2da0bcb9038072bb.jpg</filename>
+	<path>53_jpg.rf.ee15ab8ffc117bfa2da0bcb9038072bb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>208</xmin>
+			<xmax>242</xmax>
+			<ymin>272</ymin>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>93</xmin>
+			<xmax>150</xmax>
+			<ymin>272</ymin>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wheelbarrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>262</xmin>
+			<xmax>280</xmax>
+			<ymin>283</ymin>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

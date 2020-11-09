@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Dipto_ 65_jpg.rf.b1e869a653eb17b3819dce378c190fe6.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_ 65_jpg.rf.b1e869a653eb17b3819dce378c190fe6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>117</ymin>
+			<xmax>212</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>suv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>191</ymin>
+			<xmax>292</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Dipto_ 326_jpg.rf.503cbffc35526f9949113d6900d77d00.jpg</filename>
+	<path>Dipto_ 326_jpg.rf.503cbffc35526f9949113d6900d77d00.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>233</xmin>
+			<xmax>263</xmax>
+			<ymin>229</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>261</xmin>
+			<xmax>291</xmax>
+			<ymin>177</ymin>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>224</xmin>
+			<xmax>235</xmax>
+			<ymin>208</ymin>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

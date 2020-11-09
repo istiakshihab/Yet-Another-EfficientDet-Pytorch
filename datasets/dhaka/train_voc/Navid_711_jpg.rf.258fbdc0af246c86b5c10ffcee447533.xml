@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Navid_711_jpg.rf.258fbdc0af246c86b5c10ffcee447533.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_711_jpg.rf.258fbdc0af246c86b5c10ffcee447533.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>81</ymin>
+			<xmax>389</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

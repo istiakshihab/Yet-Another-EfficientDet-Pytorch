@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Pias (478)_jpg.rf.a695a587d572fe9ca23ffc8900a2ddb8.jpg</filename>
+	<path>Pias (478)_jpg.rf.a695a587d572fe9ca23ffc8900a2ddb8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>264</xmin>
+			<xmax>283</xmax>
+			<ymin>261</ymin>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

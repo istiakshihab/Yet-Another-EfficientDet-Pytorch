@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Dipto_ 254_jpg.rf.8d6f87b30fc446f931547e3005695acb.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_ 254_jpg.rf.8d6f87b30fc446f931547e3005695acb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>235</ymin>
+			<xmax>296</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

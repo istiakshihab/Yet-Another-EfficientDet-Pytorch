@@ -1,0 +1,62 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Navid_703_jpg.rf.daf33563bb3b68515edbb26d24cdf63f.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_703_jpg.rf.daf33563bb3b68515edbb26d24cdf63f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>189</ymin>
+			<xmax>175</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>211</ymin>
+			<xmax>168</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>205</ymin>
+			<xmax>207</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>209</ymin>
+			<xmax>185</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

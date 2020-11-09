@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Pias (381)_jpg.rf.0875024df0decf9436205bfb6060673c.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Pias (381)_jpg.rf.0875024df0decf9436205bfb6060673c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>259</ymin>
+			<xmax>156</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>237</ymin>
+			<xmax>512</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>222</ymin>
+			<xmax>277</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

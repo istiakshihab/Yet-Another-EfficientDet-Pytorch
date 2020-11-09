@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Dipto_522_jpg.rf.f8d389ee4ce705aba3eff99cdcaee877.jpg</filename>
+	<path>Dipto_522_jpg.rf.f8d389ee4ce705aba3eff99cdcaee877.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>362</xmin>
+			<xmax>500</xmax>
+			<ymin>148</ymin>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

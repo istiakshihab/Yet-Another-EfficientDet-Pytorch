@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Navid_161_jpg.rf.edd87314b3c7e45fb10f11679b766a89.jpg</filename>
+	<path>Navid_161_jpg.rf.edd87314b3c7e45fb10f11679b766a89.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>minivan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>274</xmin>
+			<xmax>361</xmax>
+			<ymin>295</ymin>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

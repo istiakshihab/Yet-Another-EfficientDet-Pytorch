@@ -1,0 +1,4 @@
+--2020-11-09 19:13:53--  https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch/releases/download/1.1/dataset_shape.tar.gz
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving github.com (github.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘github.com’

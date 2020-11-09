@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Dipto_735_jpg.rf.26c250274bd8fc5f4d7fe04166d0d759.jpg</filename>
+	<path>Dipto_735_jpg.rf.26c250274bd8fc5f4d7fe04166d0d759.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>299</xmin>
+			<xmax>353</xmax>
+			<ymin>327</ymin>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

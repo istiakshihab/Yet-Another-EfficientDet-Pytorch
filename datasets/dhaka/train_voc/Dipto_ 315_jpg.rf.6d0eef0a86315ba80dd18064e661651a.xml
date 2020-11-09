@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Dipto_ 315_jpg.rf.6d0eef0a86315ba80dd18064e661651a.jpg</filename>
+	<path>Dipto_ 315_jpg.rf.6d0eef0a86315ba80dd18064e661651a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pickup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>114</xmin>
+			<xmax>242</xmax>
+			<ymin>101</ymin>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

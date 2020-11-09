@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Navid_545_jpg.rf.c680f9e8bf33acea9e1f03e414dc0a9a.jpg</filename>
+	<path>Navid_545_jpg.rf.c680f9e8bf33acea9e1f03e414dc0a9a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>325</xmin>
+			<xmax>455</xmax>
+			<ymin>202</ymin>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

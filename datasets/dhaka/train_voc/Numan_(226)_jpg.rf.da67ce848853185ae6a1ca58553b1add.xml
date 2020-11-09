@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Numan_(226)_jpg.rf.da67ce848853185ae6a1ca58553b1add.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Numan_(226)_jpg.rf.da67ce848853185ae6a1ca58553b1add.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>424</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

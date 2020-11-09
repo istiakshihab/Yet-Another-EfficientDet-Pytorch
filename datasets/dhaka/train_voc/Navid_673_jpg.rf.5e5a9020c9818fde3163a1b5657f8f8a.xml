@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Navid_673_jpg.rf.5e5a9020c9818fde3163a1b5657f8f8a.jpg</filename>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_673_jpg.rf.5e5a9020c9818fde3163a1b5657f8f8a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>267</ymin>
+			<xmax>512</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>suv</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>268</ymin>
+			<xmax>131</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>
