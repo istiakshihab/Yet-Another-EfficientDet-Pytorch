@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Navid_558_jpg.rf.e959416171ed0e91ca58f753d931dac3.jpg</filename>
-	<path>Navid_558_jpg.rf.e959416171ed0e91ca58f753d931dac3.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_558_jpg.rf.e959416171ed0e91ca58f753d931dac3.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,12 +16,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>379</xmin>
-			<xmax>396</xmax>
-			<ymin>309</ymin>
-			<ymax>373</ymax>
+			<ymin>331</ymin>
+			<xmax>395</xmax>
+			<ymax>379</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>422</xmin>
+			<xmin>421</xmin>
+			<ymin>314</ymin>
 			<xmax>433</xmax>
-			<ymin>302</ymin>
 			<ymax>342</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>442</xmin>
+			<xmin>440</xmin>
+			<ymin>311</ymin>
 			<xmax>452</xmax>
-			<ymin>298</ymin>
 			<ymax>337</ymax>
 		</bndbox>
 	</object>
@@ -55,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>461</xmin>
-			<xmax>479</xmax>
 			<ymin>291</ymin>
+			<xmax>479</xmax>
 			<ymax>325</ymax>
 		</bndbox>
 	</object>
@@ -68,11 +64,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>332</xmin>
-			<xmax>352</xmax>
 			<ymin>315</ymin>
+			<xmax>352</xmax>
 			<ymax>366</ymax>
 		</bndbox>
 	</object>
@@ -81,11 +76,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>323</xmin>
-			<xmax>332</xmax>
 			<ymin>317</ymin>
+			<xmax>332</xmax>
 			<ymax>367</ymax>
 		</bndbox>
 	</object>
@@ -94,11 +88,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>248</xmin>
-			<xmax>269</xmax>
 			<ymin>336</ymin>
+			<xmax>269</xmax>
 			<ymax>382</ymax>
 		</bndbox>
 	</object>
@@ -107,11 +100,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>204</xmin>
-			<xmax>240</xmax>
 			<ymin>335</ymin>
+			<xmax>240</xmax>
 			<ymax>418</ymax>
 		</bndbox>
 	</object>
@@ -120,11 +112,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>369</xmin>
-			<xmax>379</xmax>
 			<ymin>311</ymin>
+			<xmax>379</xmax>
 			<ymax>339</ymax>
 		</bndbox>
 	</object>
@@ -133,11 +124,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>355</xmin>
-			<xmax>369</xmax>
 			<ymin>312</ymin>
+			<xmax>369</xmax>
 			<ymax>360</ymax>
 		</bndbox>
 	</object>
@@ -146,11 +136,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>389</xmin>
-			<xmax>395</xmax>
 			<ymin>311</ymin>
+			<xmax>395</xmax>
 			<ymax>327</ymax>
 		</bndbox>
 	</object>
@@ -159,11 +148,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>453</xmin>
-			<xmax>459</xmax>
 			<ymin>298</ymin>
+			<xmax>459</xmax>
 			<ymax>308</ymax>
 		</bndbox>
 	</object>
@@ -172,11 +160,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>96</xmin>
-			<xmax>147</xmax>
 			<ymin>392</ymin>
+			<xmax>147</xmax>
 			<ymax>442</ymax>
 		</bndbox>
 	</object>

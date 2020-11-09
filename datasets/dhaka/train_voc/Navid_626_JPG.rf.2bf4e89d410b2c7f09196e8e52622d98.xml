@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Navid_626_JPG.rf.2bf4e89d410b2c7f09196e8e52622d98.jpg</filename>
-	<path>Navid_626_JPG.rf.2bf4e89d410b2c7f09196e8e52622d98.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_626_JPG.rf.2bf4e89d410b2c7f09196e8e52622d98.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,38 +16,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>331</xmin>
-			<xmax>343</xmax>
 			<ymin>377</ymin>
+			<xmax>343</xmax>
 			<ymax>399</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>rickshaw</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>386</xmin>
-			<xmax>401</xmax>
-			<ymin>370</ymin>
-			<ymax>409</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>three wheelers (CNG)</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>400</xmin>
-			<xmax>426</xmax>
-			<ymin>368</ymin>
-			<ymax>414</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>437</xmin>
+			<ymin>383</ymin>
 			<xmax>455</xmax>
-			<ymin>357</ymin>
 			<ymax>430</ymax>
 		</bndbox>
 	</object>
@@ -68,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>268</xmin>
-			<xmax>320</xmax>
 			<ymin>358</ymin>
+			<xmax>320</xmax>
 			<ymax>430</ymax>
 		</bndbox>
 	</object>
@@ -81,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>169</xmin>
-			<xmax>253</xmax>
 			<ymin>270</ymin>
+			<xmax>253</xmax>
 			<ymax>460</ymax>
 		</bndbox>
 	</object>
@@ -94,11 +64,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>78</xmin>
-			<xmax>130</xmax>
 			<ymin>352</ymin>
+			<xmax>130</xmax>
 			<ymax>492</ymax>
 		</bndbox>
 	</object>
@@ -107,11 +76,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>154</xmin>
-			<xmax>170</xmax>
 			<ymin>371</ymin>
+			<xmax>170</xmax>
 			<ymax>437</ymax>
 		</bndbox>
 	</object>
@@ -120,25 +88,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>70</xmin>
-			<xmax>86</xmax>
 			<ymin>379</ymin>
+			<xmax>86</xmax>
 			<ymax>445</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>wheelbarrow</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>355</xmin>
-			<xmax>368</xmax>
-			<ymin>376</ymin>
-			<ymax>402</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>images</folder>
 	<filename>Dipto_ 232_jpg.rf.4f3a767478bf08d0295aa692ff948415.jpg</filename>
-	<path>Dipto_ 232_jpg.rf.4f3a767478bf08d0295aa692ff948415.jpg</path>
+	<path>/home/appledora/Downloads/WHOLE-RELABLED-DATASET/images/Dipto_ 232_jpg.rf.4f3a767478bf08d0295aa692ff948415.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>202</xmin>
-			<xmax>273</xmax>
 			<ymin>187</ymin>
+			<xmax>273</xmax>
 			<ymax>312</ymax>
 		</bndbox>
 	</object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>126</xmin>
-			<xmax>180</xmax>
 			<ymin>207</ymin>
+			<xmax>180</xmax>
 			<ymax>303</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>187</xmin>
-			<xmax>197</xmax>
 			<ymin>247</ymin>
+			<xmax>197</xmax>
 			<ymax>269</ymax>
 		</bndbox>
 	</object>
@@ -55,25 +52,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>420</xmin>
-			<xmax>465</xmax>
 			<ymin>182</ymin>
+			<xmax>465</xmax>
 			<ymax>308</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>motorbike</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>16</xmin>
-			<xmax>512</xmax>
-			<ymin>262</ymin>
-			<ymax>513</ymax>
 		</bndbox>
 	</object>
 </annotation>

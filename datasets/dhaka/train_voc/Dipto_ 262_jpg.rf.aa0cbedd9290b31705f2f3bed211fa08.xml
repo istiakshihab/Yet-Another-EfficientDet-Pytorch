@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Dipto_ 262_jpg.rf.aa0cbedd9290b31705f2f3bed211fa08.jpg</filename>
-	<path>Dipto_ 262_jpg.rf.aa0cbedd9290b31705f2f3bed211fa08.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_ 262_jpg.rf.aa0cbedd9290b31705f2f3bed211fa08.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>219</xmin>
-			<xmax>269</xmax>
 			<ymin>432</ymin>
+			<xmax>269</xmax>
 			<ymax>497</ymax>
 		</bndbox>
 	</object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>264</xmin>
-			<xmax>294</xmax>
 			<ymin>437</ymin>
+			<xmax>294</xmax>
 			<ymax>485</ymax>
 		</bndbox>
 	</object>
@@ -42,25 +40,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>182</xmin>
-			<xmax>205</xmax>
 			<ymin>423</ymin>
+			<xmax>205</xmax>
 			<ymax>439</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>253</xmin>
-			<xmax>259</xmax>
-			<ymin>380</ymin>
-			<ymax>388</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -68,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>189</xmin>
-			<xmax>203</xmax>
 			<ymin>457</ymin>
+			<xmax>203</xmax>
 			<ymax>489</ymax>
 		</bndbox>
 	</object>
@@ -81,11 +64,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>163</xmin>
-			<xmax>169</xmax>
 			<ymin>413</ymin>
+			<xmax>169</xmax>
 			<ymax>423</ymax>
 		</bndbox>
 	</object>

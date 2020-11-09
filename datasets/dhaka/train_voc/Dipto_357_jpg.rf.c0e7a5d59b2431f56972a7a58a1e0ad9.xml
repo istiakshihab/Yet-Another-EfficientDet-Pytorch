@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Dipto_357_jpg.rf.c0e7a5d59b2431f56972a7a58a1e0ad9.jpg</filename>
-	<path>Dipto_357_jpg.rf.c0e7a5d59b2431f56972a7a58a1e0ad9.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_357_jpg.rf.c0e7a5d59b2431f56972a7a58a1e0ad9.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>12</xmin>
-			<xmax>136</xmax>
 			<ymin>54</ymin>
+			<xmax>136</xmax>
 			<ymax>307</ymax>
 		</bndbox>
 	</object>
@@ -29,25 +28,23 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>262</xmin>
-			<xmax>375</xmax>
 			<ymin>311</ymin>
+			<xmax>375</xmax>
 			<ymax>486</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>auto rickshaw</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>409</xmin>
-			<xmax>511</xmax>
 			<ymin>402</ymin>
-			<ymax>513</ymax>
+			<xmax>511</xmax>
+			<ymax>512</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>152</xmin>
-			<xmax>199</xmax>
 			<ymin>240</ymin>
+			<xmax>199</xmax>
 			<ymax>360</ymax>
 		</bndbox>
 	</object>
@@ -68,11 +64,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>200</xmin>
-			<xmax>241</xmax>
 			<ymin>229</ymin>
+			<xmax>241</xmax>
 			<ymax>336</ymax>
 		</bndbox>
 	</object>
@@ -81,11 +76,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>287</xmin>
-			<xmax>341</xmax>
 			<ymin>246</ymin>
+			<xmax>341</xmax>
 			<ymax>297</ymax>
 		</bndbox>
 	</object>
@@ -94,11 +88,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>142</xmin>
-			<xmax>193</xmax>
 			<ymin>183</ymin>
+			<xmax>193</xmax>
 			<ymax>269</ymax>
 		</bndbox>
 	</object>
@@ -107,11 +100,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>228</xmin>
-			<xmax>321</xmax>
 			<ymin>206</ymin>
+			<xmax>321</xmax>
 			<ymax>274</ymax>
 		</bndbox>
 	</object>
@@ -120,11 +112,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>180</xmin>
-			<xmax>271</xmax>
 			<ymin>169</ymin>
+			<xmax>271</xmax>
 			<ymax>214</ymax>
 		</bndbox>
 	</object>
@@ -133,11 +124,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>148</xmin>
-			<xmax>250</xmax>
 			<ymin>126</ymin>
+			<xmax>250</xmax>
 			<ymax>188</ymax>
 		</bndbox>
 	</object>
@@ -146,11 +136,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>35</xmin>
-			<xmax>67</xmax>
 			<ymin>40</ymin>
+			<xmax>67</xmax>
 			<ymax>58</ymax>
 		</bndbox>
 	</object>
@@ -159,24 +148,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>73</xmin>
-			<xmax>97</xmax>
 			<ymin>19</ymin>
+			<xmax>97</xmax>
 			<ymax>42</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>pickup</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>1</xmin>
-			<xmax>10</xmax>
 			<ymin>86</ymin>
+			<xmax>10</xmax>
 			<ymax>202</ymax>
 		</bndbox>
 	</object>

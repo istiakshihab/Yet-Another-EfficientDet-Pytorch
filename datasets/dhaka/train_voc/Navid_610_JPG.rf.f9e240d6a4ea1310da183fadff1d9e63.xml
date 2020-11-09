@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Navid_610_JPG.rf.f9e240d6a4ea1310da183fadff1d9e63.jpg</filename>
-	<path>Navid_610_JPG.rf.f9e240d6a4ea1310da183fadff1d9e63.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_610_JPG.rf.f9e240d6a4ea1310da183fadff1d9e63.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>159</xmin>
-			<xmax>257</xmax>
 			<ymin>171</ymin>
+			<xmax>257</xmax>
 			<ymax>373</ymax>
 		</bndbox>
 	</object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>139</xmin>
-			<xmax>157</xmax>
 			<ymin>212</ymin>
+			<xmax>157</xmax>
 			<ymax>260</ymax>
 		</bndbox>
 	</object>
@@ -42,25 +40,23 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>92</xmin>
-			<xmax>114</xmax>
-			<ymin>250</ymin>
-			<ymax>322</ymax>
+			<xmin>88</xmin>
+			<ymin>255</ymin>
+			<xmax>110</xmax>
+			<ymax>327</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>pickup</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>2</xmin>
-			<xmax>85</xmax>
-			<ymin>15</ymin>
-			<ymax>422</ymax>
+			<xmin>1</xmin>
+			<ymin>17</ymin>
+			<xmax>83</xmax>
+			<ymax>424</ymax>
 		</bndbox>
 	</object>
 </annotation>

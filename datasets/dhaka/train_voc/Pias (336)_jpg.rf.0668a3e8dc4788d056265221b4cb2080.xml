@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Pias (336)_jpg.rf.0668a3e8dc4788d056265221b4cb2080.jpg</filename>
-	<path>Pias (336)_jpg.rf.0668a3e8dc4788d056265221b4cb2080.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Pias (336)_jpg.rf.0668a3e8dc4788d056265221b4cb2080.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -12,28 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>pickup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>1</xmin>
-			<xmax>212</xmax>
-			<ymin>193</ymin>
-			<ymax>470</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>three wheelers (CNG)</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>267</xmin>
-			<xmax>334</xmax>
 			<ymin>243</ymin>
+			<xmax>334</xmax>
 			<ymax>385</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>360</xmin>
-			<xmax>373</xmax>
 			<ymin>266</ymin>
+			<xmax>373</xmax>
 			<ymax>306</ymax>
 		</bndbox>
 	</object>
@@ -55,24 +40,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>382</xmin>
-			<xmax>469</xmax>
 			<ymin>176</ymin>
+			<xmax>469</xmax>
 			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>bus</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>468</xmin>
-			<xmax>512</xmax>
 			<ymin>193</ymin>
+			<xmax>512</xmax>
 			<ymax>291</ymax>
 		</bndbox>
 	</object>

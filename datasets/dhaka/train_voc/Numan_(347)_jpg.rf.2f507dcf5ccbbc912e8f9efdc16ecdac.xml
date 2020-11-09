@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Numan_(347)_jpg.rf.2f507dcf5ccbbc912e8f9efdc16ecdac.jpg</filename>
-	<path>Numan_(347)_jpg.rf.2f507dcf5ccbbc912e8f9efdc16ecdac.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Numan_(347)_jpg.rf.2f507dcf5ccbbc912e8f9efdc16ecdac.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>3</xmin>
-			<xmax>74</xmax>
-			<ymin>299</ymin>
+			<ymin>367</ymin>
+			<xmax>76</xmax>
 			<ymax>500</ymax>
 		</bndbox>
 	</object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>229</xmin>
-			<xmax>248</xmax>
 			<ymin>341</ymin>
+			<xmax>248</xmax>
 			<ymax>384</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>261</xmin>
-			<xmax>277</xmax>
 			<ymin>330</ymin>
+			<xmax>277</xmax>
 			<ymax>369</ymax>
 		</bndbox>
 	</object>
@@ -55,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>303</xmin>
-			<xmax>447</xmax>
 			<ymin>223</ymin>
+			<xmax>447</xmax>
 			<ymax>447</ymax>
 		</bndbox>
 	</object>
@@ -68,11 +64,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>441</xmin>
-			<xmax>467</xmax>
 			<ymin>330</ymin>
+			<xmax>467</xmax>
 			<ymax>369</ymax>
 		</bndbox>
 	</object>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>images</folder>
 	<filename>Dipto_ 91_jpg.rf.54285cb3871610d079341b8f5836852f.jpg</filename>
-	<path>Dipto_ 91_jpg.rf.54285cb3871610d079341b8f5836852f.jpg</path>
+	<path>/home/appledora/Downloads/WHOLE-RELABLED-DATASET/images/Dipto_ 91_jpg.rf.54285cb3871610d079341b8f5836852f.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -12,29 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>motorbike</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>135</xmin>
-			<xmax>481</xmax>
-			<ymin>300</ymin>
-			<ymax>507</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>minivan</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>2</xmin>
-			<xmax>185</xmax>
-			<ymin>89</ymin>
-			<ymax>509</ymax>
+			<xmin>1</xmin>
+			<ymin>87</ymin>
+			<xmax>183</xmax>
+			<ymax>507</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>140</xmin>
-			<xmax>341</xmax>
 			<ymin>167</ymin>
+			<xmax>341</xmax>
 			<ymax>445</ymax>
 		</bndbox>
 	</object>
@@ -55,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>159</xmin>
-			<xmax>221</xmax>
 			<ymin>162</ymin>
+			<xmax>221</xmax>
 			<ymax>212</ymax>
 		</bndbox>
 	</object>
@@ -68,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>159</xmin>
-			<xmax>252</xmax>
 			<ymin>83</ymin>
+			<xmax>252</xmax>
 			<ymax>167</ymax>
 		</bndbox>
 	</object>
@@ -81,25 +64,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>105</xmin>
-			<xmax>158</xmax>
 			<ymin>105</ymin>
+			<xmax>158</xmax>
 			<ymax>171</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bus</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>1</xmin>
-			<xmax>66</xmax>
-			<ymin>29</ymin>
-			<ymax>101</ymax>
 		</bndbox>
 	</object>
 </annotation>

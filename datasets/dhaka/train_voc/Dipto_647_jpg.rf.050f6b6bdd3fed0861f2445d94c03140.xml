@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Dipto_647_jpg.rf.050f6b6bdd3fed0861f2445d94c03140.jpg</filename>
-	<path>Dipto_647_jpg.rf.050f6b6bdd3fed0861f2445d94c03140.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_647_jpg.rf.050f6b6bdd3fed0861f2445d94c03140.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -14,13 +14,12 @@
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>381</xmin>
-			<xmax>513</xmax>
 			<ymin>332</ymin>
+			<xmax>512</xmax>
 			<ymax>512</ymax>
 		</bndbox>
 	</object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>253</xmin>
-			<xmax>309</xmax>
 			<ymin>347</ymin>
+			<xmax>309</xmax>
 			<ymax>423</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>384</xmin>
-			<xmax>429</xmax>
 			<ymin>337</ymin>
+			<xmax>429</xmax>
 			<ymax>369</ymax>
 		</bndbox>
 	</object>
@@ -55,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>303</xmin>
-			<xmax>364</xmax>
 			<ymin>333</ymin>
+			<xmax>364</xmax>
 			<ymax>411</ymax>
 		</bndbox>
 	</object>
@@ -68,11 +64,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>206</xmin>
-			<xmax>234</xmax>
 			<ymin>343</ymin>
+			<xmax>234</xmax>
 			<ymax>400</ymax>
 		</bndbox>
 	</object>
@@ -81,11 +76,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>233</xmin>
-			<xmax>247</xmax>
 			<ymin>346</ymin>
+			<xmax>247</xmax>
 			<ymax>369</ymax>
 		</bndbox>
 	</object>
@@ -94,11 +88,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>166</xmin>
-			<xmax>175</xmax>
 			<ymin>359</ymin>
+			<xmax>175</xmax>
 			<ymax>382</ymax>
 		</bndbox>
 	</object>
@@ -107,11 +100,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>248</xmin>
-			<xmax>268</xmax>
 			<ymin>331</ymin>
+			<xmax>268</xmax>
 			<ymax>345</ymax>
 		</bndbox>
 	</object>
@@ -120,11 +112,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>245</xmin>
-			<xmax>252</xmax>
 			<ymin>344</ymin>
+			<xmax>252</xmax>
 			<ymax>361</ymax>
 		</bndbox>
 	</object>
@@ -133,11 +124,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>251</xmin>
-			<xmax>261</xmax>
 			<ymin>350</ymin>
+			<xmax>261</xmax>
 			<ymax>376</ymax>
 		</bndbox>
 	</object>
@@ -146,11 +136,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>196</xmin>
-			<xmax>200</xmax>
 			<ymin>350</ymin>
+			<xmax>200</xmax>
 			<ymax>364</ymax>
 		</bndbox>
 	</object>
@@ -159,11 +148,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>204</xmin>
-			<xmax>209</xmax>
 			<ymin>345</ymin>
+			<xmax>209</xmax>
 			<ymax>353</ymax>
 		</bndbox>
 	</object>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Dipto_853_jpg.rf.6f1a122c2931903f94d3e26377839918.jpg</filename>
-	<path>Dipto_853_jpg.rf.6f1a122c2931903f94d3e26377839918.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_853_jpg.rf.6f1a122c2931903f94d3e26377839918.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>108</xmin>
+			<xmin>102</xmin>
+			<ymin>296</ymin>
 			<xmax>118</xmax>
-			<ymin>293</ymin>
 			<ymax>324</ymax>
 		</bndbox>
 	</object>
@@ -29,77 +28,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>145</xmin>
-			<xmax>164</xmax>
 			<ymin>284</ymin>
+			<xmax>164</xmax>
 			<ymax>321</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>three wheelers (CNG)</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>202</xmin>
-			<xmax>208</xmax>
-			<ymin>286</ymin>
-			<ymax>295</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>237</xmin>
-			<xmax>242</xmax>
-			<ymin>287</ymin>
-			<ymax>293</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bus</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>238</xmin>
-			<xmax>244</xmax>
-			<ymin>278</ymin>
-			<ymax>285</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bus</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>248</xmin>
-			<xmax>258</xmax>
-			<ymin>278</ymin>
-			<ymax>284</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>207</xmin>
-			<xmax>212</xmax>
-			<ymin>286</ymin>
-			<ymax>292</ymax>
 		</bndbox>
 	</object>
 </annotation>

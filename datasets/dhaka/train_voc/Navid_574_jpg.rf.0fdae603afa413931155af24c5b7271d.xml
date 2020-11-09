@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Navid_574_jpg.rf.0fdae603afa413931155af24c5b7271d.jpg</filename>
-	<path>Navid_574_jpg.rf.0fdae603afa413931155af24c5b7271d.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_574_jpg.rf.0fdae603afa413931155af24c5b7271d.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -12,16 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
+		<name>suv</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>397</xmin>
-			<xmax>467</xmax>
-			<ymin>302</ymin>
-			<ymax>412</ymax>
+			<xmin>392</xmin>
+			<ymin>297</ymin>
+			<xmax>462</xmax>
+			<ymax>407</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>198</xmin>
-			<xmax>220</xmax>
-			<ymin>330</ymin>
+			<ymin>355</ymin>
+			<xmax>218</xmax>
 			<ymax>402</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>2</xmin>
-			<xmax>83</xmax>
 			<ymin>372</ymin>
+			<xmax>83</xmax>
 			<ymax>450</ymax>
 		</bndbox>
 	</object>
@@ -55,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>259</xmin>
+			<xmin>257</xmin>
+			<ymin>336</ymin>
 			<xmax>279</xmax>
-			<ymin>322</ymin>
 			<ymax>389</ymax>
 		</bndbox>
 	</object>
@@ -68,51 +64,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>360</xmin>
+			<ymin>310</ymin>
 			<xmax>375</xmax>
-			<ymin>310</ymin>
 			<ymax>343</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>three wheelers (CNG)</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>379</xmin>
-			<xmax>386</xmax>
-			<ymin>310</ymin>
-			<ymax>326</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>376</xmin>
-			<xmax>379</xmax>
-			<ymin>313</ymin>
-			<ymax>321</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pickup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>388</xmin>
-			<xmax>395</xmax>
-			<ymin>307</ymin>
-			<ymax>320</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>25_jpg.rf.6db78098bdba80c73420cab47e5b0a9b.jpg</filename>
-	<path>25_jpg.rf.6db78098bdba80c73420cab47e5b0a9b.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/25_jpg.rf.6db78098bdba80c73420cab47e5b0a9b.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>214</xmin>
-			<xmax>259</xmax>
 			<ymin>222</ymin>
+			<xmax>259</xmax>
 			<ymax>274</ymax>
 		</bndbox>
 	</object>
@@ -29,25 +28,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>53</xmin>
-			<xmax>91</xmax>
 			<ymin>185</ymin>
+			<xmax>91</xmax>
 			<ymax>246</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>truck</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>116</xmin>
-			<xmax>157</xmax>
-			<ymin>178</ymin>
-			<ymax>239</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>4</xmin>
-			<xmax>18</xmax>
 			<ymin>235</ymin>
+			<xmax>18</xmax>
 			<ymax>284</ymax>
 		</bndbox>
 	</object>
@@ -68,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>100</xmin>
-			<xmax>117</xmax>
 			<ymin>199</ymin>
+			<xmax>117</xmax>
 			<ymax>220</ymax>
 		</bndbox>
 	</object>
@@ -81,11 +64,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>213</xmin>
-			<xmax>245</xmax>
 			<ymin>200</ymin>
+			<xmax>245</xmax>
 			<ymax>228</ymax>
 		</bndbox>
 	</object>

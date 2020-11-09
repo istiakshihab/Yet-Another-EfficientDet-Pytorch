@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Navid_595_JPG.rf.49311e0c2fc8fa5536281559f3e9c848.jpg</filename>
-	<path>Navid_595_JPG.rf.49311e0c2fc8fa5536281559f3e9c848.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_595_JPG.rf.49311e0c2fc8fa5536281559f3e9c848.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>298</xmin>
-			<xmax>372</xmax>
 			<ymin>266</ymin>
+			<xmax>372</xmax>
 			<ymax>336</ymax>
 		</bndbox>
 	</object>
@@ -29,24 +28,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>153</xmin>
-			<xmax>211</xmax>
 			<ymin>277</ymin>
+			<xmax>211</xmax>
 			<ymax>345</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>rickshaw</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>426</xmin>
-			<xmax>512</xmax>
 			<ymin>269</ymin>
+			<xmax>512</xmax>
 			<ymax>337</ymax>
 		</bndbox>
 	</object>
@@ -55,38 +52,23 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>400</xmin>
-			<xmax>433</xmax>
 			<ymin>272</ymin>
+			<xmax>433</xmax>
 			<ymax>331</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>244</xmin>
-			<xmax>286</xmax>
-			<ymin>284</ymin>
-			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>rickshaw</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>1</xmin>
-			<xmax>148</xmax>
 			<ymin>209</ymin>
-			<ymax>513</ymax>
+			<xmax>148</xmax>
+			<ymax>512</ymax>
 		</bndbox>
 	</object>
 </annotation>

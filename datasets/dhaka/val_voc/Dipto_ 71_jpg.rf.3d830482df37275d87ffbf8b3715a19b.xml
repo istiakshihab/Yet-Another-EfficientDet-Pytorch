@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Dipto_ 71_jpg.rf.3d830482df37275d87ffbf8b3715a19b.jpg</filename>
+	<path>/home/appledora/Downloads/WHOLE-RELABLED-DATASET/images/Dipto_ 71_jpg.rf.3d830482df37275d87ffbf8b3715a19b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>81</ymin>
+			<xmax>272</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>115</ymin>
+			<xmax>285</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

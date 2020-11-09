@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Navid_591_JPG.rf.4b285837afc0feb59983a4e6f6e1066d.jpg</filename>
-	<path>Navid_591_JPG.rf.4b285837afc0feb59983a4e6f6e1066d.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_591_JPG.rf.4b285837afc0feb59983a4e6f6e1066d.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -14,13 +14,12 @@
 	<object>
 		<name>bus</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>1</xmin>
-			<xmax>317</xmax>
 			<ymin>161</ymin>
+			<xmax>317</xmax>
 			<ymax>365</ymax>
 		</bndbox>
 	</object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>331</xmin>
-			<xmax>368</xmax>
 			<ymin>224</ymin>
+			<xmax>368</xmax>
 			<ymax>256</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>380</xmin>
-			<xmax>388</xmax>
 			<ymin>241</ymin>
+			<xmax>388</xmax>
 			<ymax>255</ymax>
 		</bndbox>
 	</object>
@@ -55,51 +52,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>374</xmin>
+			<ymin>239</ymin>
 			<xmax>378</xmax>
-			<ymin>239</ymin>
 			<ymax>248</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>three wheelers (CNG)</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>369</xmin>
-			<xmax>374</xmax>
-			<ymin>239</ymin>
-			<ymax>247</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>human hauler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>410</xmin>
-			<xmax>421</xmax>
-			<ymin>236</ymin>
-			<ymax>246</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>human hauler</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>421</xmin>
-			<xmax>427</xmax>
-			<ymin>237</ymin>
-			<ymax>249</ymax>
 		</bndbox>
 	</object>
 </annotation>

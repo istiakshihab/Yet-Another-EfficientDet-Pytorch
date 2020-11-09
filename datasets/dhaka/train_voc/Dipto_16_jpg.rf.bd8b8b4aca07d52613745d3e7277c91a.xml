@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>images</folder>
 	<filename>Dipto_16_jpg.rf.bd8b8b4aca07d52613745d3e7277c91a.jpg</filename>
-	<path>Dipto_16_jpg.rf.bd8b8b4aca07d52613745d3e7277c91a.jpg</path>
+	<path>/home/appledora/Downloads/WHOLE-RELABLED-DATASET/images/Dipto_16_jpg.rf.bd8b8b4aca07d52613745d3e7277c91a.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,25 +16,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>254</xmin>
-			<xmax>266</xmax>
 			<ymin>192</ymin>
+			<xmax>266</xmax>
 			<ymax>208</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>truck</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>263</xmin>
-			<xmax>271</xmax>
-			<ymin>181</ymin>
-			<ymax>190</ymax>
 		</bndbox>
 	</object>
 </annotation>

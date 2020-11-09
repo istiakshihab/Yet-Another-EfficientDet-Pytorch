@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Numan_(145)_jpg.rf.97138737c11a3ae517eadefd38c7efbf.jpg</filename>
-	<path>Numan_(145)_jpg.rf.97138737c11a3ae517eadefd38c7efbf.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Numan_(145)_jpg.rf.97138737c11a3ae517eadefd38c7efbf.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -12,15 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>rickshaw</name>
+		<name>wheelbarrow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>75</xmin>
-			<xmax>155</xmax>
-			<ymin>159</ymin>
+			<xmin>73</xmin>
+			<ymin>242</ymin>
+			<xmax>157</xmax>
 			<ymax>374</ymax>
 		</bndbox>
 	</object>
@@ -29,24 +28,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>226</xmin>
-			<xmax>315</xmax>
 			<ymin>125</ymin>
+			<xmax>315</xmax>
 			<ymax>229</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>pickup</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>1</xmin>
-			<xmax>59</xmax>
 			<ymin>142</ymin>
+			<xmax>59</xmax>
 			<ymax>320</ymax>
 		</bndbox>
 	</object>
@@ -55,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>74</xmin>
+			<ymin>173</ymin>
 			<xmax>85</xmax>
-			<ymin>155</ymin>
 			<ymax>203</ymax>
 		</bndbox>
 	</object>
@@ -68,24 +64,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>59</xmin>
-			<xmax>74</xmax>
 			<ymin>143</ymin>
+			<xmax>74</xmax>
 			<ymax>200</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>rickshaw</name>
+		<name>wheelbarrow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>169</xmin>
-			<xmax>205</xmax>
-			<ymin>159</ymin>
+			<ymin>190</ymin>
+			<xmax>202</xmax>
 			<ymax>241</ymax>
 		</bndbox>
 	</object>
@@ -94,25 +88,23 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>121</xmin>
-			<xmax>140</xmax>
 			<ymin>156</ymin>
+			<xmax>140</xmax>
 			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>pickup</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>463</xmin>
-			<xmax>511</xmax>
-			<ymin>158</ymin>
-			<ymax>272</ymax>
+			<xmin>444</xmin>
+			<ymin>172</ymin>
+			<xmax>512</xmax>
+			<ymax>256</ymax>
 		</bndbox>
 	</object>
 </annotation>

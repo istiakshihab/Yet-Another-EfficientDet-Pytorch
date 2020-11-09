@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Navid_780_jpg.rf.4f309d2c848493181bc1086de2ef5e12.jpg</filename>
-	<path>Navid_780_jpg.rf.4f309d2c848493181bc1086de2ef5e12.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Navid_780_jpg.rf.4f309d2c848493181bc1086de2ef5e12.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -14,14 +14,13 @@
 	<object>
 		<name>bicycle</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>180</xmin>
-			<xmax>425</xmax>
 			<ymin>183</ymin>
-			<ymax>513</ymax>
+			<xmax>425</xmax>
+			<ymax>512</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,24 +28,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>223</xmin>
-			<xmax>247</xmax>
 			<ymin>9</ymin>
+			<xmax>247</xmax>
 			<ymax>48</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>three wheelers (CNG)</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>249</xmin>
-			<xmax>272</xmax>
 			<ymin>1</ymin>
+			<xmax>272</xmax>
 			<ymax>41</ymax>
 		</bndbox>
 	</object>
@@ -55,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>488</xmin>
-			<xmax>504</xmax>
 			<ymin>35</ymin>
+			<xmax>504</xmax>
 			<ymax>68</ymax>
 		</bndbox>
 	</object>
@@ -68,11 +64,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>311</xmin>
-			<xmax>326</xmax>
 			<ymin>2</ymin>
+			<xmax>326</xmax>
 			<ymax>30</ymax>
 		</bndbox>
 	</object>

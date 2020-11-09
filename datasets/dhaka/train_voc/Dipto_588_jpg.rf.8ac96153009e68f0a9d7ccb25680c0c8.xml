@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>train</folder>
 	<filename>Dipto_588_jpg.rf.8ac96153009e68f0a9d7ccb25680c0c8.jpg</filename>
-	<path>Dipto_588_jpg.rf.8ac96153009e68f0a9d7ccb25680c0c8.jpg</path>
+	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_588_jpg.rf.8ac96153009e68f0a9d7ccb25680c0c8.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,25 +16,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>255</xmin>
-			<xmax>337</xmax>
 			<ymin>230</ymin>
+			<xmax>337</xmax>
 			<ymax>376</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>motorbike</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>190</xmin>
-			<xmax>201</xmax>
-			<ymin>304</ymin>
-			<ymax>345</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>340</xmin>
-			<xmax>361</xmax>
 			<ymin>297</ymin>
+			<xmax>361</xmax>
 			<ymax>325</ymax>
 		</bndbox>
 	</object>
