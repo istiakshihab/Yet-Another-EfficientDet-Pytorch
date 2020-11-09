@@ -1,9 +1,9 @@
 <annotation>
-	<folder>train</folder>
+	<folder></folder>
 	<filename>Dipto_852_jpg.rf.5cc5d0ca9ed8a92feb7bb1090762b0af.jpg</filename>
-	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Dipto_852_jpg.rf.5cc5d0ca9ed8a92feb7bb1090762b0af.jpg</path>
+	<path>Dipto_852_jpg.rf.5cc5d0ca9ed8a92feb7bb1090762b0af.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,10 +16,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>147</xmin>
-			<ymin>279</ymin>
 			<xmax>168</xmax>
+			<ymin>279</ymin>
 			<ymax>320</ymax>
 		</bndbox>
 	</object>
@@ -28,10 +29,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>212</xmin>
-			<ymin>283</ymin>
 			<xmax>218</xmax>
+			<ymin>283</ymin>
 			<ymax>295</ymax>
 		</bndbox>
 	</object>
@@ -40,11 +42,51 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>142</xmin>
-			<ymin>288</ymin>
 			<xmax>148</xmax>
+			<ymin>288</ymin>
 			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>243</xmin>
+			<xmax>248</xmax>
+			<ymin>284</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>218</xmin>
+			<xmax>222</xmax>
+			<ymin>283</ymin>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>245</xmin>
+			<xmax>252</xmax>
+			<ymin>275</ymin>
+			<ymax>283</ymax>
 		</bndbox>
 	</object>
 </annotation>

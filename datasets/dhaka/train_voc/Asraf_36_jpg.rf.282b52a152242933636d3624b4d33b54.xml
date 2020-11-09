@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Asraf_36_jpg.rf.282b52a152242933636d3624b4d33b54.jpg</filename>
+	<path>Asraf_36_jpg.rf.282b52a152242933636d3624b4d33b54.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>512</xmax>
+			<ymin>254</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder>train</folder>
+	<folder></folder>
 	<filename>Pias (221)_jpg.rf.418326d2d111b225e44aaf00a7a67286.jpg</filename>
-	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Pias (221)_jpg.rf.418326d2d111b225e44aaf00a7a67286.jpg</path>
+	<path>Pias (221)_jpg.rf.418326d2d111b225e44aaf00a7a67286.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,35 +16,38 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>292</xmin>
-			<ymin>298</ymin>
 			<xmax>497</xmax>
+			<ymin>298</ymin>
 			<ymax>483</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>rickshaw</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>42</xmin>
-			<ymin>303</ymin>
 			<xmax>236</xmax>
-			<ymax>512</ymax>
+			<ymin>303</ymin>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>rickshaw</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>311</ymin>
 			<xmax>91</xmax>
-			<ymax>512</ymax>
+			<ymin>311</ymin>
+			<ymax>513</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -52,10 +55,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>247</xmin>
-			<ymin>309</ymin>
 			<xmax>304</xmax>
+			<ymin>309</ymin>
 			<ymax>390</ymax>
 		</bndbox>
 	</object>
@@ -64,10 +68,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>226</xmin>
-			<ymin>306</ymin>
 			<xmax>249</xmax>
+			<ymin>306</ymin>
 			<ymax>357</ymax>
 		</bndbox>
 	</object>
@@ -76,10 +81,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>107</xmin>
-			<ymin>284</ymin>
 			<xmax>166</xmax>
+			<ymin>284</ymin>
 			<ymax>389</ymax>
 		</bndbox>
 	</object>

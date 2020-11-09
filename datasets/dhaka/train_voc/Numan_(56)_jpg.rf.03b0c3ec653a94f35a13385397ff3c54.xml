@@ -1,9 +1,9 @@
 <annotation>
-	<folder>train</folder>
+	<folder></folder>
 	<filename>Numan_(56)_jpg.rf.03b0c3ec653a94f35a13385397ff3c54.jpg</filename>
-	<path>/home/istiak/Codes/dhaka_ai/dataset/train2/train/Numan_(56)_jpg.rf.03b0c3ec653a94f35a13385397ff3c54.jpg</path>
+	<path>Numan_(56)_jpg.rf.03b0c3ec653a94f35a13385397ff3c54.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>512</width>
@@ -16,23 +16,12 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>288</xmin>
-			<ymin>285</ymin>
 			<xmax>501</xmax>
+			<ymin>285</ymin>
 			<ymax>484</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>rickshaw</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>37</xmin>
-			<ymin>298</ymin>
-			<xmax>236</xmax>
-			<ymax>512</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -40,10 +29,24 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>37</xmin>
+			<xmax>236</xmax>
+			<ymin>298</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>4</xmin>
-			<ymin>303</ymin>
 			<xmax>92</xmax>
+			<ymin>303</ymin>
 			<ymax>510</ymax>
 		</bndbox>
 	</object>
@@ -52,10 +55,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>245</xmin>
-			<ymin>308</ymin>
 			<xmax>308</xmax>
+			<ymin>308</ymin>
 			<ymax>395</ymax>
 		</bndbox>
 	</object>
@@ -64,10 +68,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>107</xmin>
-			<ymin>282</ymin>
 			<xmax>165</xmax>
+			<ymin>282</ymin>
 			<ymax>399</ymax>
 		</bndbox>
 	</object>
